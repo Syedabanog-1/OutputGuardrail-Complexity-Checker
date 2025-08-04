@@ -1,6 +1,6 @@
-Objective of the Code:
-*********************
-The objective of this code is to ensure that answers provided to 8th-grade students are not overly complex or too advanced. It creates a student agent that generates responses, and a guardrail mechanism that checks whether those responses are at a PhD-level complexity. If the response is too complex, it gets blocked automatically.
+Objective:
+********
+The objective of this project is to ensure that answers provided to 8th-grade students are not overly complex or too advanced. It creates a student agent that generates responses, and a guardrail mechanism that checks whether those responses are at a PhD-level complexity. If the response is too complex, it gets blocked automatically.
 
 ✅ How It Works (Step-by-Step)
 Two Agents Are Defined:
